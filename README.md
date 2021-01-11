@@ -33,6 +33,6 @@
 |Bioinformatics| Bioinformatics | B|一区|[Click Here](https://academic.oup.com/bioinformatics/)|1.8个月| 4.531| [Link](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=1122&xuanxiangk_id=2#xuanxk_3)| 8(double)|
 |NeuroComputing| NeuroComputing | B|二区|[Click Here](https://www.journals.elsevier.com/neurocomputing/)|10.0个月| 4.438| [Link](http://www.letpub.com.cn/index.php?journalid=6141&page=journalapp&view=detail)| 20(single)|
 |APIN| Applied Intelligence | C|三区|[Click Here](https://apin.org.ng/)|3个月| 3.325| [Link](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=737)| 20(single)|
-|SUPE| The Journal of Supercomputing | C|三区|[Click Here](https://www.springer.com/journal/11227/?utm_source=letpub&utm_medium=display&utm_content=mpu&utm_campaign=SRCN_3_ll01_cn_letpuborganic_cs_11227)|3个月| 2.469 [Link](http://www.letpub.com.cn/index.php?journalid=5194&page=journalapp&view=detail)| 20(single)|
+|SUPE| The Journal of Supercomputing | C|三区|[Click Here](https://www.springer.com/journal/11227/?utm_source=letpub&utm_medium=display&utm_content=mpu&utm_campaign=SRCN_3_ll01_cn_letpuborganic_cs_11227)|3个月| 2.469| [Link](http://www.letpub.com.cn/index.php?journalid=5194&page=journalapp&view=detail)| 20(single)|
 
 ###### 备注：期刊周期不一定可信，所有信息以目前19年为准。 页数为大多数情况下页面数目。
